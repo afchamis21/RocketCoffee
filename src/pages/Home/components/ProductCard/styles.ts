@@ -111,6 +111,10 @@ export const ProductCardContainer = styled.div`
         background: ${(props) => props.theme['purple-500']};
         cursor: pointer;
       }
+
+      :active {
+        filter: brightness(1.3);
+      }
     }
   }
 `
