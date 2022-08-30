@@ -43,7 +43,7 @@ export function Home() {
               <span>
                 <Coffee size={16} weight="fill" />
               </span>
-              O café chega fresquinho até voce
+              O café chega fresquinho até você
             </span>
           </InfoContainer>
         </IntroText>

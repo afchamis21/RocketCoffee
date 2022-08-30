@@ -28,7 +28,7 @@ export const FakeDB: IProduct[] = [
     photo_url: expresso,
     name: 'Expresso Tradicional',
     description: 'O tradicional café feito com água quente e grãos moídos',
-    price: 9.9,
+    price: 19.9,
     tags: ['tradicional'],
   },
   {
@@ -36,7 +36,7 @@ export const FakeDB: IProduct[] = [
     photo_url: americano,
     name: 'Expresso Americano',
     description: 'Expresso diluído, menos intenso que o tradicional',
-    price: 9.9,
+    price: 8.9,
     tags: ['tradicional'],
   },
   {
@@ -69,7 +69,7 @@ export const FakeDB: IProduct[] = [
     name: 'Latte',
     description:
       'Uma dose de café expresso com o dobro de leite e espuma cremosa',
-    price: 9.9,
+    price: 5.9,
     tags: ['tradicional', 'com leite'],
   },
   {
@@ -78,7 +78,7 @@ export const FakeDB: IProduct[] = [
     name: 'Capuccino',
     description:
       'Bebida com canela feita de doses iguais de café, leite e espuma',
-    price: 9.9,
+    price: 2.9,
     tags: ['tradicional', 'com leite'],
   },
   {
@@ -87,7 +87,7 @@ export const FakeDB: IProduct[] = [
     name: 'Macchiato',
     description:
       'Café expresso misturado com um pouco de leite quente e espuma',
-    price: 9.9,
+    price: 19.9,
     tags: ['tradicional', 'com leite'],
   },
   {
@@ -103,7 +103,7 @@ export const FakeDB: IProduct[] = [
     photo_url: chocolateQuente,
     name: 'Chocolate Quente',
     description: 'Bebida feita com chocolate dissolvido no leite quente e café',
-    price: 9.9,
+    price: 14.9,
     tags: ['especial', 'com leite'],
   },
   {
