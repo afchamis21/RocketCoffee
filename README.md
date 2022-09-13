@@ -1,3 +1,5 @@
-# Rocketseat-ReactJS-challenge2
+# RocketCoffee
 
-Hosted on: https://rocketcoffee.onrender.com/
+Accesse para vizualizar: https://rocketcoffee.onrender.com/
+
+Projeto de um e-commerce fake de cafés, com funcionalidade de carrinho e formulário de compras
