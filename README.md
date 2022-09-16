@@ -4,6 +4,13 @@
 
 Projeto de um e-commerce fake de cafés, com funcionalidade de carrinho e formulário de compras
 
+### Techs:
+<ul>
+  <li>ReactJS</li>  
+  <li>Styled Components</li>  
+  <li>React Hook Form</li>  
+</ul>
+
 ![image](https://user-images.githubusercontent.com/92460628/190527507-862c6590-30fa-4028-8b2b-cc4d0e03113d.png)
 
 ![image](https://user-images.githubusercontent.com/92460628/190527527-b5a4bd53-4e8b-4dec-9d82-31419041c854.png)
