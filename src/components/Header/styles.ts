@@ -43,15 +43,16 @@ export const NavContainer = styled.nav`
         width: 1.25rem;
         height: 1.25rem;
         background: ${(props) => props.theme['yellow-900']};
+        line-height: 1;
         position: absolute;
-        top: -0.625rem;
-        right: -0.625rem;
+        top: -50%;
+        right: -50%;
+        transform: translateX(-50%) translateY(50%);
         border-radius: 9999px;
         color: ${(props) => props.theme.white};
         display: flex;
         align-items: center;
         justify-content: center;
-
         font-size: 0.75rem;
         font-weight: bold;
       }

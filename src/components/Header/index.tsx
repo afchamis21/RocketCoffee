@@ -19,7 +19,7 @@ export function Header() {
         </span>
         <NavLink to="/cart">
           <ShoppingCart size={22} weight="fill" />
-          {totalAmount ? <div className="counter">{totalAmount}</div> : <></>}
+          {totalAmount !== 0 && <div className="counter">{totalAmount}</div>}
         </NavLink>
       </div>
     </NavContainer>
